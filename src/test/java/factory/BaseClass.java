@@ -52,7 +52,7 @@ public class BaseClass {
 			}
 
 			switch (browser) {
-
+                         //kya re bhai
 			case "firefox":
 				capabilities.setPlatform(Platform.MAC);
 				break;
